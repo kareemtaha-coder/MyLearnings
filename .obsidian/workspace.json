@@ -11,10 +11,14 @@
             "id": "9bf7b50761b7d196",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker Map.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Docker Map"
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker/Docker Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Docker Map"
             }
           },
           {
@@ -124,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker/Docker Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Docker Map"
             }
           },
           {
@@ -166,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Docker/Docker Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Docker Map"
             }
           }
         ]
@@ -193,10 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6bfea45f1d20883",
+  "active": "9bf7b50761b7d196",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Docker/Docker Map.md",
     "Docker",
-    "README.md",
-    "Welcome.md"
+    "README.md"
   ]
 }
