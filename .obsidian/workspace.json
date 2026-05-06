@@ -4,40 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bd39c3d4f82cd2e2",
+        "id": "67ad45d85ad3c74c",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf7b50761b7d196",
+            "id": "b557106a1c44fe2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Map.md",
+                "file": "1-DevOps-And-Cloud/Docker/Docker-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Map"
+              "title": "Docker-Index"
             }
-          }
-        ]
-      },
-      {
-        "id": "d6f33a7548cc0e39",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b9afd898cf984fd6",
+            "id": "b33da03dea6b9456",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2-DotNet/EF/Expression-Tree/1-The Query Pipeline From LINQ Expression to Raw Data Streaming.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-The Query Pipeline From LINQ Expression to Raw Data Streaming"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0e096a59eeaff7e7",
@@ -110,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker Map"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker Map"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker Map"
+              "title": "Outline"
             }
           }
         ]
@@ -199,11 +195,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "9bf7b50761b7d196",
+  "active": "b33da03dea6b9456",
   "lastOpenFiles": [
+    "2-DotNet/EF/Expression-Tree/2-EF Core (Translation Failures).md",
+    "2-DotNet/EF/Expression-Tree/1-The Query Pipeline From LINQ Expression to Raw Data Streaming.md",
+    "2-DotNet/EF/Expression-Tree/3-Example.md",
+    "2-DotNet/EF/Untitled.md",
+    "1-DevOps-And-Cloud/Docker/Getting Started/1-What is Docker.md",
+    "2-DotNet/EF/Expression-Tree",
+    "2-DotNet/EF",
+    "DOTNET/Untitled.md",
+    "2-DotNet",
+    "1-DevOps-And-Cloud/Docker/Docker-Index.md",
+    "README.md",
+    "1-DevOps-And-Cloud/Docker/Getting Started",
+    "1-DevOps-And-Cloud/Docker",
+    "1-DevOps-And-Cloud/Docker Map.md",
     "Welcome.md",
-    "Docker/Docker Map.md",
-    "Docker",
-    "README.md"
+    "1-DevOps-And-Cloud"
   ]
 }
