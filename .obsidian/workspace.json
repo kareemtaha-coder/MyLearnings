@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-DotNet/EF/Expression-Tree/1-The Query Pipeline From LINQ Expression to Raw Data Streaming.md",
-                "mode": "preview",
+                "file": "2-DotNet/EF/Expression-Tree/Examples.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-The Query Pipeline From LINQ Expression to Raw Data Streaming"
+              "title": "Examples"
             }
           }
         ],
@@ -197,9 +197,12 @@
   },
   "active": "b33da03dea6b9456",
   "lastOpenFiles": [
+    "Pasted image 20260513165021.png",
+    "2-DotNet/EF/Expression-Tree/3-Example.md",
+    "2-DotNet/EF/Expression-Tree/Examples.md",
+    "Pasted image 20260506160954.png",
     "2-DotNet/EF/Expression-Tree/2-EF Core (Translation Failures).md",
     "2-DotNet/EF/Expression-Tree/1-The Query Pipeline From LINQ Expression to Raw Data Streaming.md",
-    "2-DotNet/EF/Expression-Tree/3-Example.md",
     "2-DotNet/EF/Untitled.md",
     "1-DevOps-And-Cloud/Docker/Getting Started/1-What is Docker.md",
     "2-DotNet/EF/Expression-Tree",
